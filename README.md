@@ -1,4 +1,4 @@
-![photo_2025-05-04_20-26-27](https://github.com/user-attachments/assets/bad436ba-07a1-499c-834a-6dd9ec5b9bfb)Java SpringBoot and MariaDB on Android Mobile or Tablet
+Java SpringBoot and MariaDB on Android Mobile or Tablet
 
 In this project, I successfully set up a full Spring Boot development environment directly on an Android device. Using tools like Smart IDE All in One and AWebServer, I was able to:
 ✅ Create and run Spring Boot projects
